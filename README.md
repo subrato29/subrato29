@@ -1,2 +1,2 @@
 ### console.log('Hi there 👋')
-As a SDET, I am passionate about any type of automation activity. I feel automation is an art of showcasing an engineer's efficiency and smartness in work. Whatever may the application, my goal is to break it.
+Passionate about playing with cutting edge test automation tools and technology. Whatever may be the application, I love to break it. I have designed and developed various kinds of open source based test automation framework from scratch. I feel quality engineering could be interesting, only if you really know it..:)
