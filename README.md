@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Subrato Sarkar</h1>
-<h3 align="left">Software Engineer In Test, Quality Engineering</h3>
+<h3 align="left">Software Engineer In Test</h3>
 
 --------------
 
