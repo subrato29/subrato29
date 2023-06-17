@@ -4,10 +4,9 @@
 --------------
 
 - 👨‍💻 All of my contributions are available at: [https://github.com/subrato29](https://github.com/subrato29)
-
-- 💬 Ask me about **Quality Engineering and Test Automation stuffs**
-
+- 💬 Ask me about **Quality Engineering and Test Automation**
 - 📫 Email: **subratosarkar29@gmail.com**
+- 👨‍💻 Problem solving profile: https://leetcode.com/Subrato29
 
 <h3 align="left">Connect me on</h3>
 <ul>
