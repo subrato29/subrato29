@@ -3,11 +3,11 @@
 
 --------------
 
-- 👨‍💻 All of my contributions are available at [https://github.com/subrato29](https://github.com/subrato29)
+- 👨‍💻 All of my contributions are available at: [https://github.com/subrato29](https://github.com/subrato29)
 
 - 💬 Ask me about **Quality Engineering and Test Automation stuffs**
 
-- 📫 How to reach me **subratosarkar29@gmail.com**
+- 📫 Email: **subratosarkar29@gmail.com**
 
 <h3 align="left">Connect me on</h3>
 <ul>
