@@ -3,10 +3,10 @@
 
 --------------
 
-- 👨‍💻 All of my contributions are available at: [https://github.com/subrato29](https://github.com/subrato29)
+- 👨‍💻 All of my contributions are available at: [My GitHub](https://github.com/subrato29)
 - 💬 Open to discuss about **Test Engineering** to educate and enrich myself
 - 📫 Email: subratosarkar29@gmail.com
-- 👨‍💻 Problem solving profile: https://leetcode.com/Subrato29
+- 👨‍💻 Problem solving profile: [Leetcode](https://leetcode.com/Subrato29)
 
 <h3 align="left">Connect me on</h3>
 <ul>
